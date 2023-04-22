@@ -1,4 +1,4 @@
-import React, { LegacyRef, ReactEventHandler, useRef } from "react";
+import React, { ReactEventHandler } from "react";
 
 type Props = {
   children?: React.ReactNode;
